@@ -1,3 +1,6 @@
 [submodule "externals/parallel_bus_driver"]
 	path = externals/parallel_bus_driver
-	url = git@github.com:meteorTriangle/LCD_parallel_bus_driver.git
+	url = https://github.com/meteorTriangle/LCD_parallel_bus_driver.git
+	branch = main
+[submodule "externals/parallel_bus_driver/"]
+	branch = main
